@@ -1,6 +1,7 @@
 # ML-CIFAR100-classification
 datasets: 
 CIFAR-100, https://www.cs.toronto.edu/~kriz/cifar.html
+
 The CIFAR-100 dataset consists of 100 classes containing 600 images each, with 6000 images per class. There are 50000 training images and 10000 test images.
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. There are 500 training images and 100 testing images per class. The 100 classes in the CIFAR-100 are grouped into 20 superclasses. Each image comes with a "fine" label (the class to which it belongs) and a "coarse" label (the superclass to which it belongs).
